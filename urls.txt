@@ -1,0 +1,6 @@
+*.blob.core.windows.net
+s3.amazonaws.com
+*.s3.amazonaws.com
+storage.googleapis.com
+*.backblazeb2.com
+*.digitaloceanspaces.com
